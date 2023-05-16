@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="screenshot.png" alt="Screenshot of Birthday Reminder website">
+  <img src="birthday-stack.PNG" alt="Screenshot of Birthday Reminder website">
 </p>
 
 <p align="center">
